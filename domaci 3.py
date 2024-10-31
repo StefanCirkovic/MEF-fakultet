@@ -11,9 +11,9 @@ if user < 0:
 else:
     print(user / 2.54)
 
+
+
 # 2.zadatak
-
-
 
 temperature = float(input("Unesite temperaturu: "))
 
@@ -29,6 +29,7 @@ elif temperature_unit == 'F':
     print(f"{temperature}°F je {converting_from_F_to_C}°C.")
 else:
     print("Greska")
+
 
 
 #  3. zadatak
@@ -64,6 +65,10 @@ if random_number == number:
     print("Pogodili ste!")
 else:
     print(f"niste pogodili, broj je {random_number}")
+
+
+
+
 
 # dodatni zadaci
 
