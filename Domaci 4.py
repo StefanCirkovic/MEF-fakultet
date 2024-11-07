@@ -106,8 +106,7 @@ for i in range(1, redovi + 1):
     print("*" * i)
 
 
-
-
+# ova dva zadnja zadatka sam uradio na moj nacin, ako Vam nije problem posaljite mi kako bi Vi to uradili.
 
 
 
